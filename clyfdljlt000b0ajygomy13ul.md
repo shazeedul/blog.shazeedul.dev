@@ -5,6 +5,7 @@ seoDescription: "Beginner’s guide to installing MySQL on Ubuntu. Follow these 
 datePublished: Wed Jul 10 2024 05:04:38 GMT+0000 (Coordinated Universal Time)
 cuid: clyfdljlt000b0ajygomy13ul
 slug: installing-mysql-on-ubuntu-a-beginners-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Y9kOsyoWyaU/upload/27ca970b9f0cd9e06973a5f13d25f383.jpeg
 tags: ubuntu, mysql, databases
 
 ---
