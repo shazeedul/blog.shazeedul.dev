@@ -2,7 +2,7 @@
 title: "Troubleshooting Valet: Making Hidden Sites For Invisible In Valet-Sites."
 seoTitle: "Fixing Hidden Sites in Valet-Sites"
 seoDescription: "Learn how to troubleshoot and display hidden sites in Valet to ensure they appear in your available sites list"
-datePublished: Mon Jan 20 2025 05:21:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-20T05:21:31.103Z
 cuid: cm64lmifz000g09jyhmezhw8w
 slug: troubleshooting-valet-making-hidden-sites-for-invisible-in-valet-sites
 tags: linux, valet
