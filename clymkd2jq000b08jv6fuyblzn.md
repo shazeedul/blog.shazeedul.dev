@@ -2,7 +2,7 @@
 title: "50 basic Linux commands"
 seoTitle: "Essential Linux Commands for Beginners"
 seoDescription: "Quick guide to essential Linux commands for mastering command line skills, including file management, system monitoring, and networking tasks. 🚀🖥️"
-datePublished: Mon Jul 15 2024 05:48:23 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-15T05:48:23.462Z
 cuid: clymkd2jq000b08jv6fuyblzn
 slug: 50-basic-linux-commands
 canonical: https://dev.to/just_ritik/50-basic-linux-commands-3af6?ref=dailydev
